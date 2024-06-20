@@ -9,7 +9,7 @@
 ## Installation
    # Steps
       # Clone the repository:
-        git clone
+        git clone https://github.com/PRChoudhary/Calculator.git
         #Navigate to the project directory:
          cd basic-calculator
 
